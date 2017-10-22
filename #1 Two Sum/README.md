@@ -49,6 +49,6 @@ print("Hashmap/Dict():", min(timeit.Timer(stmt="a.twoSumDict(nums, target)", set
 
 ##### Results:
 ```
-Brutforce: 0.06600504951714442
+Bruteforce: 0.06600504951714442
 Hashmap/Dict: 0.024372493051178612
 ```
