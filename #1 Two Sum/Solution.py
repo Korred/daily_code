@@ -32,7 +32,7 @@ class Solution:
                 checked[diff] = i
 
 
+# Example use:
 nums = [3, 2, 4, 12, 6, 125, 126, -4, -2]
 target = 123
-# Example use:
 print(Solution.twoSumDict(nums, target))
